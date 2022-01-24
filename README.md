@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sandeep983 (Sandeep Patel).
-- 👀 I know Python, C (Programming Language), HTML, CSS, Basics of Javascript.
+- 👋 Hi, I’m Sandeep Patel (@sandeep983).
+- 👀 I know Python, Django, C (Programming Language), HTML, CSS, Basics of Javascript.
 - 💞 I’m interested in Python Programming.
-- 🌱 I’m currently learning Sql & Databases, Java, Data Structure and Web Development.
+- 🌱 I’m currently learning Sql & Databases, Rest API, Java.
 - 📫 How to reach me? Telegram: https://t.me/sandeep_patel07 | Instagram: https://www.instagram.com/sandeep_patel07
 
 <!---
